@@ -37,7 +37,7 @@ This repository and all its content are protected by copyright law. Unauthorized
 
 ## Enforcement
 
-Instances of unethical behavior, plagiarism, or violations of this Code of Conduct may be reported by contacting me at [your_email@example.com]. All reports will be reviewed and investigated, and actions will be taken as deemed necessary.
+Instances of unethical behavior, plagiarism, or violations of this Code of Conduct may be reported by contacting me at sine over cosine at gmail dot com. All reports will be reviewed and investigated, and actions will be taken as deemed necessary.
 
 ## Attribution
 

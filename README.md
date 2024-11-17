@@ -10,7 +10,7 @@ Waze is a free navigational app that makes it easier for drivers around the worl
 
 # Phase-1
 
-Project Proposal
+[Project Proposal](./Phase-1)
 
 # Phase-2
 

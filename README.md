@@ -14,7 +14,7 @@ Waze is a free navigational app that makes it easier for drivers around the worl
 
 # Phase-2
 
-Understand The Data
+[Understand The Data](./Phase-2)
 
 # Phase-3
 

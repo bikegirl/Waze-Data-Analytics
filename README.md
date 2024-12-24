@@ -18,7 +18,9 @@ Waze is a free navigational app that makes it easier for drivers around the worl
 
 # Phase-3
 
-EDA: Exploratory Data Analysis
+[EDA: Exploratory Data Analysis](./Phase-3)
+
+You may view the viz related to this capstone [here](https://public.tableau.com/app/profile/rebecca.iglesias.flores/viz/RetentionDirectionKeepingUsersonWaze/Story1)
 
 # Phase-4
 

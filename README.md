@@ -24,7 +24,7 @@ You may view the viz related to this capstone [here](https://public.tableau.com/
 
 # Phase-4
 
-Statistical Test
+[Statistical Test](./Phase-4)
 
 # Phase-5
 

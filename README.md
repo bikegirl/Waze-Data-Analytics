@@ -28,7 +28,7 @@ You may view the viz related to this capstone [here](https://public.tableau.com/
 
 # Phase-5
 
-Regression Modeling
+[Regression Modeling](./Phase-5)
 
 # Phase-6
 

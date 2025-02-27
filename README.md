@@ -32,7 +32,7 @@ You may view the viz related to this capstone [here](https://public.tableau.com/
 
 # Phase-6
 
-Machine Learning Models
+[Machine Learning Model](./Phase-6)
 
 # Phase-7
 

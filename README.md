@@ -36,4 +36,27 @@ You may view the viz related to this capstone [here](https://public.tableau.com/
 
 # Phase-7
 
-End of Story
+## About the Company  
+
+Salifort Motors data is based on a *fictional* French-based alternative energy vehicle manufacturer.  
+
+Currently, there is a high rate of turnover among Salifort employees. *(Note: In this context, turnover data includes both employees who choose to quit their job and employees who are let go.)* Salifort’s senior leadership team is concerned about how many employees are leaving the company.  
+
+Salifort strives to create a corporate culture that supports employee success and professional development. Additionally, the high turnover rate has significant financial implications. The company invests heavily in recruiting, training, and upskilling its employees, making retention a key priority.  
+
+If Salifort could predict whether an employee will leave the company and uncover the reasons behind their departure, leadership could better understand the problem and develop targeted solutions.  
+
+### Independent Capstone Project  
+
+In this independent capstone project, I took a self-directed approach to analyzing a real-world business problem with minimal instruction and guidance. From defining the problem to delivering actionable insights, I applied data-driven techniques to uncover key findings. My process included:  
+
+- Gathering and synthesizing information related to a business problem or organizational inquiry  
+- Writing Python code to answer relevant questions  
+- Conducting exploratory data analysis  
+- Building statistical and machine learning models  
+- Evaluating ethical considerations related to the task  
+- Presenting findings in a clear, stakeholder-friendly manner 
+
+
+
+[My Independent Capstone Project](./Phase-7)
